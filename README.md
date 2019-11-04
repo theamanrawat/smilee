@@ -4,7 +4,7 @@ Smilee v-0.1 modifed version of SayCheese
 # How it works?
 <p>This tool is a modified version of SayCheese. This tool will generate a malicious link that will capture the snapshot of victim from his webcam and send it back to attacker's system.</p>
 
-![smilee screenshot](https://raw.githubusercontent.com/theamanrawat/smilee/master/screenshots.png)
+
 
 ## Installing (Kali Linux/Termux):
 
