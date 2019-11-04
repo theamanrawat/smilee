@@ -4,7 +4,7 @@ import shutil
 import time
 
 def banner():
-	print "Smilee v-0.1 modifed version of saycheese"
+	print "	Smilee v-0.1 modifed version of saycheese\n	modified by Aman Rawat\n"
 
 def input():
 	url = raw_input("	[+] Enter the your link: ")
